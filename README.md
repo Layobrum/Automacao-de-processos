@@ -44,7 +44,7 @@ Este projeto visa automatizar o cadastro de produtos em um sistema de gerenciame
 
 # Créditos
 -----------
-Este projeto foi criado por Layo "MrBrum" como prática da `Jornada Python` by *Hashtag Treinamentos*.
-Se você tiver alguma dúvida ou sugestão, por favor entre em contato comigo pelo meu [Linkedin](https://www.linkedin.com/in/layo-brum/).
+- Este projeto foi criado por Layo "MrBrum" como prática da `Jornada Python` by *Hashtag Treinamentos*.
+- Se você tiver alguma dúvida ou sugestão, por favor entre em contato comigo pelo meu [Linkedin](https://www.linkedin.com/in/layo-brum/).
 
 
