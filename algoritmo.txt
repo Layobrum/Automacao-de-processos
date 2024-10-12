@@ -1,0 +1,8 @@
+## Começando um projeto pensando no passo a passo para automatizar a tarefa ##
+Criando o algoritmo (passo a passo):
+
+Passo 1: Entrar no sistema da empresa
+Passo 2: Fazer login no sistema
+Passo 3: Abrir/importar a base de dados
+Passo 4: Cadastrar um produto
+Passo 5: Repetir o passo 4 até terminar
