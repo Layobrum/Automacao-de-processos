@@ -1,10 +1,8 @@
 
 # Projeto de Automação de Cadastro de Produtos
 
-## Descrição
--------------
 Este projeto visa automatizar o cadastro de produtos em um sistema de gerenciamento de estoque. Ele utiliza a biblioteca `pyautogui` para simular ações do usuário e a biblioteca `pandas` para ler e manipular os dados dos produtos.
-É possível ver uma prévia do script funcionando em `Video demonstrativo.mp4`
+É possível ver uma prévia do script funcionando em `Video demonstrativo.mp4`.
 
 ## Arquivos do Projeto
 ----------------------
